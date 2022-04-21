@@ -1,0 +1,55 @@
+.ml_auto{
+    margin-left: auto;
+}
+.tx_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bg_1{
+background-image: url(image/bg-2.png);
+background-repeat: no-repeat;
+width: 100%;
+height: auto;
+background-position: -8px 412px;
+}
+.btn_slider{
+background-color: black;
+padding: 6px 19px;
+color: white;
+border: none;
+border-radius: 5px;
+}
+.bg_1 h1{
+font-size: 45px;
+font-weight: bold;
+color: black;
+}
+.posation_phon{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.Smartphone_con{
+margin-top: 32px;
+margin-bottom: 29px;
+}
+.mobil_shado{
+box-shadow: 1px 1px 6px grey;
+text-align: center;
+}
+.laptop_con{
+ margin-top: 32px;
+margin-bottom: 29px;
+}
+.posation_laptop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 51px;
+    margin-bottom: 31px;
+    }
+ .see_all{
+        color: #ff10cc;
+        font-weight: bold;
+    }
